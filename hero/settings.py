@@ -25,7 +25,7 @@ SECRET_KEY = 'p034gf^%qq+b@d#%c&w=)a0@o_w!3iryl421qe+vgp#1giy5u)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ignas-first-app.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
